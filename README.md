@@ -1,6 +1,6 @@
 ### Hi, i'm Luna! Welcome
 
-- 🌱 I'm learning Java
+- 🌱 Full stack Java Dev student
 - 😄 Pronouns: Ela/Dela
 <!--
 <div align="center">
