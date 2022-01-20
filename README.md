@@ -1,7 +1,7 @@
-### Olá, eu sou a Luna! Seja Bem-Vinde
+### Hi, i'm Luna! Welcome
 
-- 🌱 Estou aprendendo Java
-- 😄 Pronomes: Ela/Dela
+- 🌱 I'm learning Java
+- 😄 Pronouns: Ela/Dela
 <!--
 <div align="center">
   <a href="https://github.com/rafaballerini">
