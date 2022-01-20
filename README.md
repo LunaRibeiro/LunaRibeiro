@@ -1,7 +1,7 @@
 ### Hi, i'm Luna! Welcome
 
 - 🌱 Full stack Java Dev student
-- 😄 Pronouns: Ela/Dela
+- 😄 Pronouns: She/Her
 <!--
 <div align="center">
   <a href="https://github.com/LunaRibeiro">
