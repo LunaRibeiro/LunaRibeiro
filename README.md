@@ -1,7 +1,8 @@
-### Hi, i'm Luna! Welcome
+### Olá, meu nome é Luna! Seja bem-vindo
 
-- 🌱 Full stack Java Dev student
-- 😄 Pronouns: She/Her
+- ✍🏻 Estou no 4º semestre de Ciência da Computação na UTFPR
+- 🌱 Estudando para me tornar Desenvolvedora Full Stack Java Jr.
+- 😄 Pronomes: Ela/Dela
 
 <div align="center">
   <a href="https://github.com/LunaRibeiro">
