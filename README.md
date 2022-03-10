@@ -5,7 +5,7 @@
 - 😄 Pronomes: Ela/Dela
 
 <div align="center">
-  <img align="right" width="400" height="400" src="https://c.tenor.com/41a133JDHAAAAAAC/naruto-shippuden-gif-sage-mode.gif">
+  <img align="right" width="200" height="200" src="https://c.tenor.com/41a133JDHAAAAAAC/naruto-shippuden-gif-sage-mode.gif">
   <a href="https://github.com/LunaRibeiro">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LunaRibeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
