@@ -31,4 +31,4 @@
 -->
 
 
-
+![Snake animation](https://github.com/LunaRibeiro/LunaRibeiro/blob/output/github-contribution-grid-snake.svg)
