@@ -6,14 +6,13 @@
 
 <div align="center">
  <!-- <img align="right" width="200" height="180" src="https://c.tenor.com/41a133JDHAAAAAAC/naruto-shippuden-gif-sage-mode.gif"> -->
+ 
+ <a href="https://github.com/LunaRibeiro">
   
-   
-<!--
-  <a href="https://github.com/LunaRibeiro">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LunaRibeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LunaRibeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaRibeiro&layout=compact&langs_count=7&theme=dark"/>
+<!--
     </div>   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -30,8 +29,10 @@
   <a href="https://instagram.com/lunasccp_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lunaribeiroalves28@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
  </div>  
-  ![Snake animation](https://github.com/LunaRibeiro/LunaRibeiro/blob/output/github-contribution-grid-snake.svg)
+  
 -->
+  
+  ![Snake animation](https://github.com/LunaRibeiro/LunaRibeiro/blob/output/github-contribution-grid-snake.svg)
 
 
 
