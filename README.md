@@ -1,5 +1,6 @@
 ### Olá, meu nome é Luna! Seja bem-vindo
 
+- Estagiária de desenvolvimento na SWA-SISTEMAS no PR
 - ✍🏻 Estou no 4º semestre de Ciência da Computação na UTFPR
 - 🌱 Estudando para me tornar Desenvolvedora Full Stack Java Jr.
 - 😄 Pronomes: Ela/Dela
