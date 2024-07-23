@@ -1,7 +1,7 @@
 # Salve, sou a Luna 👩🏻‍💻 
-- Trainee de desenvolvimento na SWA-SISTEMAS no PR
+- Desenvolvedora Júnior na empresa de Marketing 28 no PR
 - ✍🏻 Estou no 4º semestre de Ciência da Computação na UTFPR
-- 🌱 Estudando para me tornar Desenvolvedora Full Stack Java Jr.
+- 🌱 Estudando para me tornar Desenvolvedora Full Stack Java.
 - 😄 Pronomes: Ela/Dela
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lunaribeiro&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lunaribeiro&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lunaribeiro&theme=nord_dark) |
