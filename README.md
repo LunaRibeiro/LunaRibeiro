@@ -1,5 +1,4 @@
 # Salve, sou a Luna 👩🏻‍💻 
-- Desenvolvedora Júnior na empresa de Marketing 28 no PR
 - ✍🏻 Estou no 4º semestre de Ciência da Computação na UTFPR
 - 🌱 Estudando para me tornar Desenvolvedora Full Stack Java.
 - 😄 Pronomes: Ela/Dela
