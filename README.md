@@ -1,5 +1,5 @@
 # Salve, sou a Luna 👩🏻‍💻 
-- ✍🏻 Estou no 4º semestre de Ciência da Computação na UTFPR
+- ✍🏻 Estou no 5º semestre de Ciência da Computação na UTFPR
 - 🌱 Estudando para me tornar Desenvolvedora Full Stack.
 - 😄 Pronomes: Ela/Dela
 
