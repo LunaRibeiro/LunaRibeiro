@@ -1,7 +1,7 @@
 # Olá, sou a Luna 👩🏻‍💻 
 - ✍🏻 Estou no 5º semestre de Ciência da Computação na UTFPR
-- 🌱 Estudando para me tornar Desenvolvedora Full Stack.
-- 😄 Pronomes: Ela/Dela
+- 🌱 Estudando para me tornar Desenvolvedora Backend.
+- 
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lunaribeiro&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lunaribeiro&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lunaribeiro&theme=nord_dark) |
 | :-: | :-: | :-: |
